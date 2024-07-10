@@ -23,3 +23,23 @@ git push
 clone
 ------
 git clone "url"
+
+
+branch creation
+---------------------
+
+git status      # to check which branch
+
+git branch branchname
+git checkout branchname 
+
+
+git add .
+git commit -m "commit label"
+git push -u origin branchname
+
+
+pull request
+----------------
+
+git pull "url"
