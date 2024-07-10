@@ -10,3 +10,16 @@ git add .
 gir remote add origin "url"
 git commit -m "commit label"
 git push -u origin master
+
+
+from second commit 
+------------------------
+
+git add . 
+git commit -m "commit label"
+git push
+
+
+clone
+------
+git clone "url"
