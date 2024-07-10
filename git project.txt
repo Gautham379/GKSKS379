@@ -1,0 +1,12 @@
+https://github.com/Gautham379/GKSKS379.git
+
+
+git config --global user.name "username"
+git config --global user.email  "email"
+
+
+git init
+git add .
+gir remote add origin "url"
+git commit -m "commit label"
+git push -u origin master
