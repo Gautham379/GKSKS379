@@ -1,0 +1,47 @@
+
+1)
+Start
+Define 3 variables a b and sum
+Read 2 values from user as a and b
+sum=a+b
+print sum
+Stop
+
+2)
+Start
+Define 3 variables a,b and c
+Input 2 values from user a and b
+Assign c=a
+then a=b
+then b=c
+print a and b
+Stop
+
+3)
+Start 
+Define 2 variables a and b
+Input 2 values form user a and b
+Set a=a+b
+b=a-b
+a=a-b
+print a and b
+Stop
+
+4)
+Start
+Defin 1 variable x
+Input a value from user
+if x//2=1:
+	print odd
+else:
+	print even
+Stop
+
+5)
+Start 
+Define 2 variable l and i=1
+Input the value of the limit from user
+while i<=l+1:
+	print i
+	Set i=i+1
+Stop

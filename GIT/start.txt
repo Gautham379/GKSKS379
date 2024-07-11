@@ -1,0 +1,32 @@
+GETTING STARTED WITH GITHUB
+
+git config --global user.name "username"
+git config --global user.email "email"
+
+git init
+git add .                             #select all the content in that perticular file
+git remote add origin "url"            #connect to github 
+git commit -m "commit label"           # to commit
+git push -u origin master               #push to the branch
+
+
+from second push :
+git add .
+git commit -m "commit lable"
+git push
+
+clone:
+git clone "url"                     #clone others project from github
+
+branch creation:
+git status                         #to check the current branch in use
+git branch brachname
+git checkout brachname
+
+to push to new brach:
+git add .
+git commit -m "commit label"
+git push -u origin branchname     #only for the frist push in that branch  then continue with >git push
+
+pull request:
+git pull "url"     #if cloned file is updated furture to get the update in your project you have to pull it
