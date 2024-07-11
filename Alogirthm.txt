@@ -1,0 +1,46 @@
+
+1.
+Start
+Define 3 variables x y and sum
+Input x and y from user
+sum=x+y
+print sum
+Stop
+
+2.
+Start
+Define 3 variables x,y and z
+Input x and y from user
+Assign z=x
+then x=y
+then y=z
+print a and b
+Stop
+
+3.
+Start 
+Define 2 variables x and y
+Input x and y from user
+Set x=x+y
+y=x-y
+x=x-y
+print a and b
+Stop
+
+4.
+Start
+Define 1 variable x
+Input x from user
+check if x//2=1
+True=print odd
+False=print even
+Stop
+
+5.
+Start 
+Define 2 variable l and i=1
+Input limit from user
+for i in range (l):
+	print i
+	i=i+1
+Stop
